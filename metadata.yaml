@@ -1,0 +1,35 @@
+_repo: Archimedes-or-the-future-of-physics_75452
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whyte, Lancelot Law
+    alias: Whyte, L. L. (Lancelot Law)
+    birthdate: 1896
+    deathdate: 1972
+    gutenberg_agent_id: '57950'
+    url: http://www.gutenberg.org/2009/agents/57950
+    wikipedia: https://en.wikipedia.org/wiki/Lancelot_Law_Whyte
+description: ''
+gutenberg_issued: '2025-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75452'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015017204648
+pgterms:marc905: 20230522043847whyte
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+production_note: Carla Foust, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bKegan Paul, Trench, Trubner & Co., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: To-day and to-morrow series
+subjects:
+- !lcsh 'Physics'
+- !lcc 'QC'
+- GITenberg
+title: Archimedes; or, the future of physics
+url: http://www.gutenberg.org/ebooks/75452
